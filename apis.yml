@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://svatky.adresa.info
 common:
+  - type: DomainSecurity
+    url: security/czech-namedays-calendar-domain-security.yml
   - type: Website
     url: https://svatky.adresa.info
   - type: PublicAPIsListing

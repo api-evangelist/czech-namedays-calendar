@@ -39,7 +39,6 @@ apis:
   - name: Czech Namedays Calendar
     description: "Lookup for a name and returns nameday date"
     humanURL: https://svatky.adresa.info
-    baseURL: https://svatky.adresa.info
     tags:
       - Calendar
     properties:
